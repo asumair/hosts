@@ -1,0 +1,3 @@
+0.0.0.0 inapps.appsflyer.com
+0.0.0.0 www.dream11.com
+0.0.0.0 https://app.appsflyer.com/com.app.dream11Pro-Pro?pid=hotstar_int&af_r=https://www.dream11.com/affiliate/cricket/
